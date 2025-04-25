@@ -128,6 +128,14 @@
       "url": "https://github.com/JohnMata0427/Food-Ordering-API-RESTful",
       "highlights": ["Node.js, Express, MongoDB"],
       "github": "https://github.com/JohnMata0427/Food-Ordering-API-RESTful"
+    },
+    {
+      "name": "Sistema de gestión de ventas para el Punto Frio R.T.R.",
+      "isActive": true,
+      "description": "Sistema desarrollado para gestionar ventas y clientes en un punto de venta.",
+      "url": "https://app.swaggerhub.com/apis-docs/ALANRIOSHD/punto-frio-rtr/1.0.0#/",
+      "highlights": ["Node.js, MongoDB, Express"],
+      "github": "https://github.com/AlanRiosMendoza/SYSTEM-PUNTO-FRIO-RTR.git"
     }
   ]
 }

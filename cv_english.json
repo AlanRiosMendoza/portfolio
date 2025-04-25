@@ -1,0 +1,125 @@
+{
+  "basics": {
+    "name": "Alan Josue Rios Mendoza",
+    "label": "Backend Developer",
+    "image": "me.webp",
+    "email": "alan.rios.hd@gmail.com",
+    "phone": "0960131442",
+    "url": "",
+    "summary": "Software Development Technologist focused on backend development. Experience in building RESTful APIs using Node.js, Express, and MongoDB. Able to work in teams, adaptable, and immediately available for onsite, remote, or hybrid environments. I have contributed to backend solutions that manage real processes such as orders and client management, demonstrating the ability to solve problems with clean and scalable code.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Quito",
+      "countryCode": "EC",
+      "region": "Pichincha"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "alan-josue-rios-mendoza-7262a9318",
+        "url": "https://www.linkedin.com/in/alan-josue-rios-mendoza-7262a9318/"
+      },
+      {
+        "network": "X",
+        "username": "alan_ri0s",
+        "url": "https://twitter.com/alan_ri0s"
+      },
+      {
+        "network": "GitHub",
+        "username": "AlanRiosMendoza",
+        "url": "https://github.com/AlanRiosMendoza"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Escuela Politécnica Nacional",
+      "url": "https://www.epn.edu.ec/",
+      "area": "Software Development Technologist",
+      "studyType": "Technological Degree",
+      "startDate": "2023-01-01",
+      "endDate": "2026-01-01",
+      "courses": [
+        "Thesis: Sales management system for Punto Frío R.T.R.",
+        "Technologies: Node.js, MongoDB, Express",
+        "Repository: https://github.com/AlanRiosMendoza/SYSTEM-PUNTO-FRIO-RTR"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "name": "EPN - Financial Department",
+      "position": "Intern",
+      "startDate": "2023-11-01",
+      "endDate": "2024-01-01",
+      "highlights": [
+        "Supported logical and structured design of physical files using database-like logic.",
+        "Updated records in internal systems, improving data structure management.",
+        "Systematized processes using digital tools, contributing to backend automation."
+      ]
+    },
+    {
+      "name": "DIGIP - User Services and Support",
+      "position": "Intern",
+      "startDate": "2024-04-01",
+      "endDate": "2024-06-01",
+      "highlights": [
+        "Prepared technical documentation and reports for support and maintenance.",
+        "Diagnosed and solved system failures, enhancing backend environment knowledge.",
+        "Implemented ICT tools for internal monitoring and management processes."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Backend",
+      "level": "Intermediate",
+      "keywords": ["Node.js", "Express", "MongoDB", "Docker", "Postman", "Git", "Linux"]
+    },
+    {
+      "name": "Databases",
+      "level": "Intermediate",
+      "keywords": ["MySQL", "SQL Server", "MongoDB", "MariaDB", "PostgreSQL", "SQLite"]
+    },
+    {
+      "name": "Frontend",
+      "level": "Basic",
+      "keywords": ["React", "React Native", "TailwindCSS", "Firebase", "Ionic", "Flutter"]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Intermediate",
+      "keywords": ["C++", "Python", "JavaScript", "TypeScript", "Java", "Dart"]
+    },
+    {
+      "name": "Testing and Analysis",
+      "level": "Basic",
+      "keywords": ["Jest", "Apache JMeter", "Pandas"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Basic"
+    }
+  ],
+  "projects": [
+    {
+      "name": "RESTful API for Veterinary Management",
+      "description": "API developed to manage services and clients for a veterinary clinic.",
+      "url": "https://github.com/AlanRiosMendoza/API-RESTful-Veterinary-Management",
+      "highlights": ["Node.js, Express, MongoDB"]
+    },
+    {
+      "name": "API for University Cafeteria Orders",
+      "description": "Contributed to the implementation of endpoints for food orders.",
+      "url": "https://github.com/JohnMata0427/Food-Ordering-API-RESTful",
+      "highlights": ["Node.js, Express, MongoDB"]
+    }
+  ]
+}

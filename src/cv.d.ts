@@ -19,7 +19,7 @@ interface Basics {
   image: string
   email: string
   phone: string
-  url: string
+  url?: string
   summary: string
   location: Location
   profiles: Array<Profiles>

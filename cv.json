@@ -48,29 +48,33 @@
     }
   ],
   "work": [
-    {
-      "name": "EPN - Dirección Financiera",
-      "position": "Practicante",
-      "startDate": "2023-11-01",
-      "endDate": "2024-01-01",
-      "highlights": [
-        "Apoyo en el diseño lógico y estructurado de archivos físicos con lógica similar a bases de datos.",
-        "Actualización de registros en sistemas internos, mejorando el manejo de estructuras de datos.",
-        "Sistematización de procesos usando herramientas digitales, contribuyendo a automatización backend."
-      ]
-    },
-    {
-      "name": "DIGIP - Servicios y Soporte al Usuario",
-      "position": "Practicante",
-      "startDate": "2024-04-01",
-      "endDate": "2024-06-01",
-      "highlights": [
-        "Elaboración de documentación técnica y reportes para soporte y mantenimiento.",
-        "Diagnóstico y solución de fallos en sistemas, fortaleciendo conocimientos de entornos backend.",
-        "Implementación de herramientas TIC para procesos internos de monitoreo y gestión."
-      ]
-    }
-  ],
+  {
+    "name": "EPN - Dirección Financiera",
+    "position": "Practicante",
+    "startDate": "2023-11-01",
+    "endDate": "2024-01-01",
+    "summary": "Durante esta pasantía apoyé la organización de archivos físicos aplicando una lógica similar a bases de datos, participé en la actualización de registros internos y contribuí a la automatización de procesos mediante herramientas digitales, reforzando mi enfoque en la sistematización desde el backend.",
+    "highlights": [
+      "Apoyo en el diseño lógico y estructurado de archivos físicos con lógica similar a bases de datos.",
+      "Actualización de registros en sistemas internos, mejorando el manejo de estructuras de datos.",
+      "Sistematización de procesos usando herramientas digitales, contribuyendo a automatización backend."
+    ],
+    "url": "#"
+  },
+  {
+    "name": "DIGIP - Servicios y Soporte al Usuario",
+    "position": "Practicante",
+    "startDate": "2024-04-01",
+    "endDate": "2024-06-01",
+    "summary": "Esta experiencia me permitió fortalecer habilidades técnicas en backend mediante el diagnóstico de fallas en sistemas, elaboración de documentación técnica y la implementación de herramientas TIC para mejorar los procesos internos de soporte y monitoreo.",
+    "highlights": [
+      "Elaboración de documentación técnica y reportes para soporte y mantenimiento.",
+      "Diagnóstico y solución de fallos en sistemas, fortaleciendo conocimientos de entornos backend.",
+      "Implementación de herramientas TIC para procesos internos de monitoreo y gestión."
+    ],
+    "url": "#"
+  }
+],
   "skills": [
     {
       "name": "Backend",
@@ -111,15 +115,19 @@
   "projects": [
     {
       "name": "API RESTful para gestión veterinaria",
+      "isActive": true,
       "description": "API desarrollada para gestionar servicios y clientes de una veterinaria.",
       "url": "https://github.com/AlanRiosMendoza/API-RESTful-Veterinary-Management",
-      "highlights": ["Node.js, Express, MongoDB"]
+      "highlights": ["Node.js, Express, MongoDB"],
+      "github": "https://github.com/AlanRiosMendoza/API-RESTful-Veterinary-Management"
     },
     {
       "name": "API para pedidos en cafetería universitaria",
+      "isActive": true,
       "description": "Contribución en la implementación de endpoints para pedidos de alimentos.",
       "url": "https://github.com/JohnMata0427/Food-Ordering-API-RESTful",
-      "highlights": ["Node.js, Express, MongoDB"]
+      "highlights": ["Node.js, Express, MongoDB"],
+      "github": "https://github.com/JohnMata0427/Food-Ordering-API-RESTful"
     }
   ]
 }
